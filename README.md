@@ -1,2 +1,2 @@
 # Technival_2017
-Code for College techfest of NITGOA 
+Code Repo for NITGOA's techfest website (technival.org)
